@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "561497331688",
+    "firebase_url": "https://emusic-4450f.firebaseio.com",
+    "project_id": "emusic-4450f",
+    "storage_bucket": "emusic-4450f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561497331688:android:c06f215b6b7727fcc7f65d",
+        "android_client_info": {
+          "package_name": "com.example.emusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561497331688-2jsgv8bnkf1a8lk03tpf6e5a8ffeca70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emusic",
+            "certificate_hash": "b5ff9e6976117f7947d1ca8cd045609a5fef1a35"
+          }
+        },
+        {
+          "client_id": "561497331688-jv90qhdg5e1jrpj4g144ircqjf6jelt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgZ3rPkbN_BLsnANqwe_LwrPAF26Wb6hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561497331688-jv90qhdg5e1jrpj4g144ircqjf6jelt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561497331688:android:f6acd663333f45cdc7f65d",
+        "android_client_info": {
+          "package_name": "com.example.mplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561497331688-k0vtceu156ec6lthsr4tvmi793vp9128.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mplayer",
+            "certificate_hash": "a2a867bd0e23f792a3b8ff03c64490f2abb469e3"
+          }
+        },
+        {
+          "client_id": "561497331688-jv90qhdg5e1jrpj4g144ircqjf6jelt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgZ3rPkbN_BLsnANqwe_LwrPAF26Wb6hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561497331688-jv90qhdg5e1jrpj4g144ircqjf6jelt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
